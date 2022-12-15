@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+* {
+    font-family: 'Oswald', sans-serif;
+}
+
+
+.jumbotron {
+    background-color: rgb(224, 237, 255);
+    padding-top: 7rem;
+}
+
+
+#about {
+    padding-top: 5rem;
+}
+
+
+#projects {
+    background-color: rgb(224, 237, 255);
+    padding-top: 5rem;
+}
+
+
+#contact {
+    padding-top: 5rem;
+}
